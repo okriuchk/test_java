@@ -27,7 +27,7 @@ public class MainClass {
         a.play();
 
         Video v = new Video();
-        v.author = "user @OKSS";
+        v.author = "user @OKSSS";
         v.date = new Date();
         v.message = "Baikal";
         v.type_message = AbstractPost.Type.post;
