@@ -15,7 +15,7 @@ public class MainClass {
         Picture p = new Picture();
         p.author = "Sidorov";
         p.date = new Date();
-        p.message = "LOKO";
+        p.message = "LOKOMOTIV";
         p.type_message = AbstractPost.Type.repost;
         p.print_out();
 
